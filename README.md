@@ -46,5 +46,5 @@ open index.html  # 또는 파일 더블클릭
 
 ## 🧑‍💻 작성자
 
-- 이름: [당신의 이름 또는 GitHub 아이디]
+- 이름: [최동호]
 - GitHub: [https://github.com/WONDO-K/JavaScript.git]
